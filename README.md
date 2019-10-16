@@ -17,8 +17,8 @@ I didn't have that much ML background going into this competition. Had compelete
 
 Resources I recommend:
 - Lectures were really good baseline
-- 100 Page ML book displays topics really well in a short amount of time (would recommend buying, it is worth it - Is available on read now buy later principle too).
-- 
+- [The Hundred-Page Machine Learning Book displays topics really well in a short amount of time (would recommend buying, it is worth it - Is available on read now buy later principle too).](http://themlbook.com/)
+- [Did part of a udemy course (can like half recommend - is a good starting place)](https://www.udemy.com/course/machinelearning/)
 - Stackoverflow all the things...
 
 
