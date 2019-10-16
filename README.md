@@ -28,8 +28,11 @@ Graphing each variable with respect to the income was extremely informative. Alo
 
 ### Questioning the data
 I spent SO long trying to figure out how to make a reasonable guess for job titles not present in test data, I even had a super hacky measure at one put to measure the length of a job title in characters and use that as an input to the ML model, the logic was that:
+
 "Chief Executive Officer" - Paid a big salary
+
 "Teacher" - Not as big as CEO (sidenote: really underpaid for the impact their work has)
+
 
 BUT this was kinda useless as it turns out the job titles had been assigned a totally random salary each. In fairness my total fault not researching this more beforehand, I should have questioned the data earlier.
 
