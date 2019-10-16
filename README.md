@@ -33,6 +33,7 @@ I spent SO long trying to figure out how to make a reasonable guess for job titl
 
 "Teacher" - Not as big as CEO (sidenote: really underpaid for the impact their work has)
 
+More Characters in Job Title -> More Specialization -> More Pay? (Was the logic)
 
 BUT this was kinda useless as it turns out the job titles had been assigned a totally random salary each. In fairness my total fault not researching this more beforehand, I should have questioned the data earlier.
 
