@@ -43,7 +43,7 @@ From graphing this is super clear. Rich people had a tendency to live in cities 
 If you log the income value it dramatically helped the outcome, then exp() the prediction before saving to CSV. I wish I had paid attention to this earlier as spent soooo soo soo long in the 78-80k range.
 
 ### Data Preprocessing is super powerful
-I was running XGBoost for so long absolutely killing my beefy laptop but ultimately having well processed data trumps on. Final submitted solution totally basic scikit learn lin reg took 15-20 secs to run in comparison to 20-30 minutes on my laptop for XGBoost which ended up giving a worst result - Note this is likely the fault of me the inexperienced machine learning developer, I'm certain an XGBoost made program could perform even better.
+I was running XGBoost for so long absolutely killing my beefy laptop but ultimately having well processed data trumps all. Final submitted solution was totally basic scikit learn lin reg took 15-20 secs to run in comparison to 20-30 minutes on my laptop for XGBoost which ended up giving a worst result - Note this is likely the fault of me the inexperienced machine learning developer, I'm certain an XGBoost made program could perform even better.
 
 ## Given extra time what would I have done
 I totally disregarded any rows of data missing important features from my training data, I really wanted to use an IterativeImputer (basically a model to run on the training data to predict missing values based on the other training data). Sadly was time constraint and felt basic editing of the data would have a bigger impact than adding this feature, but was super cool to learn and read about for the future. Ultimately happy with this decision given the timeframe.
